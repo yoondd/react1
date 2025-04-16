@@ -4,10 +4,11 @@
     overflow-x: hidden;
 }
 
-h1 {
+h1.gallery-title {
     margin-top: 100px;
     text-align: center;
     font-size: 3rem;
+    color: #000;
 }
 
 /* scroll container box */

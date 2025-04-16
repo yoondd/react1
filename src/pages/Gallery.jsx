@@ -29,7 +29,7 @@ const Gallery = () => {
   return (
     <div className="gallery-container">
 
-      <h1>Image Slide</h1>
+      <h1 className="gallery-title">Image Slide</h1>
       {/* 흐르는 이미지 시작*/}
       <div className="scroll-container">
         <div className="scroll-track">
